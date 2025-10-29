@@ -2,4 +2,4 @@
 
 "La sostenibilidad es un concepto que busca satisfacer las necesidades del presente sin comprometer la capacidad de las generaciones futuras para satisfaces las suyas."
 
-![Sostenibilidad](tierra.jpg)
+![Sostenibilidad](/UD1/img/tierra.jpg)
